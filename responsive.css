@@ -66,5 +66,11 @@
     .single-product{
         width: 100%;
     }
+    .discount-container{
+        flex-direction: column;
+    }
+    .disc{
+        left: 230px;
+    }
     
 }
