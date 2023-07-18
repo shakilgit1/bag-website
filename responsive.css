@@ -1,0 +1,25 @@
+@media screen and (max-width:400px) {
+    .nav-container{ 
+        flex-direction: column;
+        
+    }
+
+    .nav-container .logo-items{
+        margin: 0 auto;
+    }
+
+    .nav-container .btn-items{
+       flex-direction: column;
+       width: 100%;
+    }
+    .nav-container .btn-items a{
+        padding: 10px;
+        
+    }
+    
+    .nav-container .login{
+       width: 100%;
+       text-align: center;
+    }
+  
+}
