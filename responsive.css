@@ -1,3 +1,29 @@
+@media screen and (min-width:400px) and (max-width:700px) {
+    .nav-container{ 
+        flex-direction: column;
+        
+    }
+    .logo-items{
+        margin: 0 auto;
+    }
+    .btn-items{
+        margin: 0 auto;
+    }
+    .banner-container{
+        flex-direction: column;
+    
+    }
+    .text-content{
+        width: 100%;
+    }
+    .img-content{
+        width: 100%;
+    }
+}
+
+
+
+/* mobile devices */
 @media screen and (max-width:400px) {
     .nav-container{ 
         flex-direction: column;
@@ -21,5 +47,15 @@
        width: 100%;
        text-align: center;
     }
-  
+    .banner-container{
+        flex-direction: column;
+    
+    }
+    .text-content{
+        width: 100%;
+    }
+    .img-content{
+        width: 100%;
+    }
+    
 }
