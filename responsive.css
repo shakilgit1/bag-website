@@ -72,5 +72,14 @@
     .disc{
         left: 230px;
     }
-    
+    .footer{
+        width: 80%;
+    }
+    .footer > .logo-items,{
+        flex-direction: column;
+        width: 50%;
+    }
+    .footer .foot{
+        flex-direction: column;
+    }
 }

@@ -239,3 +239,22 @@ nav{
 .cutomer-name img{
     width: 20%;
 }
+/* footer styles */
+
+.footer{
+    background-color: #9376e0;
+    width: 100%;
+    height: 40vh;
+    text-align: center;
+    /* align-content: center; */
+    /* padding: 80px; */
+    /* padding-top: 90px; */
+}
+/* .footer > .foot{
+    width: 20%;
+    display: flex;
+    border: 2px solid red;
+    padding-left: 80px;
+    margin-left: 500px;
+    justify-content: center;
+} */
